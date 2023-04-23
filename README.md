@@ -4,6 +4,4 @@ Este projeto é um aplicativo de lista de tarefas que permite criar, editar, com
 
 update:
 Consegui deixar praticamente pronto só faltou a filtragem e a barra de pesquisa.
-
-
 23/03/2023
