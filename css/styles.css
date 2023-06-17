@@ -156,3 +156,12 @@ input, select {
     text-decoration: line-through;
     font-style: italic;
 }
+
+/* mobile */
+@media(max-width: 450px) {
+
+    .todo-container {
+    flex-direction: column;
+        max-width: 90%;
+    }
+}
